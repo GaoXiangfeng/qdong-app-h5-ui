@@ -1,0 +1,5 @@
+export const OPEN_LOADING = 'OPEN_LOADING'
+export const CLOSE_LOADING = 'CLOSE_LOADING'
+export const ACTIVE_HOME_PAGE = 'ACTIVE_HOME_PAGE'
+export const ORDER_STATUS = 'ORDER_STATUS'
+export const ORDER_DATA = 'ORDER_DATA'

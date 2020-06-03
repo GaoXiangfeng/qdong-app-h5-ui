@@ -1,0 +1,26 @@
+{
+  "presets": [
+    ["env", {
+      "modules": false,
+      "targets": {
+        "browsers": ["> 1%", "last 2 versions", "not ie <= 8"]
+      }
+    }],
+    "stage-2"
+  ],
+  "plugins": [
+    "transform-vue-jsx", 
+    "transform-runtime",
+    //按需加载vant
+    // ["import", {
+    //   "libraryName": "vant",
+    //   "libraryDirectory": "es",
+    //   "style": true
+    // }]
+    //按需加载mand
+    ["import", {
+      "libraryName": "mand-mobile",
+      "libraryDirectory": "lib"
+    }]
+  ]
+}

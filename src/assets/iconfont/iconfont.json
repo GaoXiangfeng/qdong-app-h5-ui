@@ -1,0 +1,72 @@
+{
+  "id": "1465646",
+  "name": "Creditdong",
+  "font_family": "iconfont",
+  "css_prefix_text": "my-icon-",
+  "description": "越南icon",
+  "glyphs": [
+    {
+      "icon_id": "795509",
+      "name": "眼睛",
+      "font_class": "ai-eye",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "1015108",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "1802985",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "4333789",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "5466017",
+      "name": "check",
+      "font_class": "check",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
+      "icon_id": "5524662",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5809231",
+      "name": "隐藏",
+      "font_class": "yincang",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "6242362",
+      "name": "check",
+      "font_class": "check1",
+      "unicode": "e7ba",
+      "unicode_decimal": 59322
+    },
+    {
+      "icon_id": "7964512",
+      "name": "验证",
+      "font_class": "yanzheng",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    }
+  ]
+}
